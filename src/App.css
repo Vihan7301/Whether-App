@@ -51,7 +51,7 @@ body{
   input{
     height: 30px;
     border: none;
-    
+    background-color: white;
   }
   button{
     height: 32px;
